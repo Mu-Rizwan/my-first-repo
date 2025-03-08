@@ -5,4 +5,4 @@
 
 # Task 4:
 
-- Attempting to resolve the conflict by rerwriting the content.
+- Attempting to resolve the conflict by rerwriting the content.These changes are made by Amos Shehzad
