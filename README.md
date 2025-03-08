@@ -5,5 +5,4 @@
 
 # Task 4:
 
-- Creating changes in **README.md**.
-- This is **main branch**.
+- Attempting to resolve the conflict by rerwriting the content.
